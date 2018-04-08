@@ -42,3 +42,24 @@ Please keep in mind that transmitting on certain frequencies without special per
 * reads mono and stereo files
 * reads data from stdin
 * based on threads
+
+
+Install and Running steps
+
+sudo git clone 
+
+sudo apt-get install mpg123
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get install make gcc g++
+
+
+cd fm_transmitter
+
+sudo make
+
+sudo ./fm_transmitter -f 87.5 -r star_wars.wav
+
