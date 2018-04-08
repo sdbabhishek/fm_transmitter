@@ -44,9 +44,9 @@ Please keep in mind that transmitting on certain frequencies without special per
 * based on threads
 
 
-Install and Running steps
+## Install and Running steps
 
-sudo git clone 
+sudo git clone https://github.com/sdbabhishek/fm_transmitter.git
 
 sudo apt-get install mpg123
 
